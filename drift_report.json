@@ -1,0 +1,10 @@
+{
+  "new_fields": [],
+  "removed_fields": [],
+  "type_mismatches": {},
+  "_meta": {
+    "v1": "salesforce.csv",
+    "v2": "hubspot.csv",
+    "generated_ts": "2025-11-18T19:40:23.636269"
+  }
+}

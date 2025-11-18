@@ -1,0 +1,4 @@
+customer_id,name,revenue,last_updated
+1001,Acme Corp,100000,2025-11-15T10:00:00
+1002,BetterGoods,25000,2025-11-16T09:00:00
+1003,Catena LLC,50000,2025-10-01T08:00:00
