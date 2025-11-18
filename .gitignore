@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Databases / outputs (do NOT track these unless you want to)
+*.db
+*.sqlite
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+
+# logs
+*.log
